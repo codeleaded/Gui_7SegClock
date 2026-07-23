@@ -1,7 +1,7 @@
 # Project README
 
 ## Overview
-This project is a 7-segment clock GUI application written in C. It utilizes the WindowEngine1.0 library for window management and the DD7Segment library to handle 7-segment display rendering.
+This project is a 7-segment clock GUI application written in C. It utilizes the WindowEngine library for window management and the DD7Segment library to handle 7-segment display rendering.
 
 ## Features
 - Displays the current time on a 7-segment LED display.
